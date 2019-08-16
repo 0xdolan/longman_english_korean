@@ -27,15 +27,13 @@ Download GoldenDict from below links as follows:
 
 - ### Linux
 
-  [**Download GoldenDict (Free)**]
+   open your terminal, copy and paste one of the below commands and press enter:
 
-  - open your terminal, copy and paste one of the below commands and press enter:
+      `sudo apt-get install goldendict`
 
-    `sudo apt-get install goldendict`
+      or
 
-    or
-
-    `sudo apt install goldendict`
+      `sudo apt install goldendict`
 
 ## How to add the (.py) dictionary in GoldenDict?
 
@@ -53,20 +51,18 @@ Download GoldenDict from below links as follows:
 - click on **Apply** and then **OK**
 - Done!
 
-Screenshots:
+**screenshots:**
 
 ![screenshot 01](https://raw.githubusercontent.com/dolanskurd/english_korean/master/img/Screenshots/Screenshot%20(1).jpg)
 
 ![screenshot 02](https://raw.githubusercontent.com/dolanskurd/english_korean/master/img/Screenshots/Screenshot%20(2).jpg)
 
 
-### YouTube Video link of the Longman_English_Korean on the GoldenDict
-
-### Screenshot of the main website
+### YouTube Video link of the Longman English Korean on the GoldenDict
 
 [**Longman English Korean Website**](https://www.ldoceonline.com/dictionary/english-korean/)
 
-Screenshot:
+**screenshot:**
 
 ![Longman English Korean Website](https://raw.githubusercontent.com/dolanskurd/english_korean/master/img/Screenshots/Longman_English_Korean_website_screenshot.jpg)
 
