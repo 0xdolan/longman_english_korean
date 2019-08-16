@@ -60,6 +60,8 @@ Download GoldenDict from below links as follows:
 
 ### YouTube Video link of the Longman English Korean on the GoldenDict
 
+[**Longman English Korean GoldenDict view](https://youtu.be/S8FywMA60vM)**
+
 [**Longman English Korean Website**](https://www.ldoceonline.com/dictionary/english-korean/)
 
 **screenshot:**
