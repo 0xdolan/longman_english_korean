@@ -53,11 +53,22 @@ Download GoldenDict from below links as follows:
 - click on **Apply** and then **OK**
 - Done!
 
+Screenshots:
+
+![screenshot 01](https://raw.githubusercontent.com/dolanskurd/english_korean/master/img/Screenshots/Screenshot%20(1).jpg)
+
+![screenshot 02](https://raw.githubusercontent.com/dolanskurd/english_korean/master/img/Screenshots/Screenshot%20(2).jpg)
+
+
 ### YouTube Video link of the Longman_English_Korean on the GoldenDict
 
 ### Screenshot of the main website
 
 [**Longman English Korean Website**](https://www.ldoceonline.com/dictionary/english-korean/)
+
+Screenshot:
+
+![Longman English Korean Website](https://raw.githubusercontent.com/dolanskurd/english_korean/master/img/Screenshots/Longman_English_Korean_website_screenshot.jpg)
 
 ## Contact me
 
